@@ -1,4 +1,4 @@
-# Some-papers-about-SVG
+# text to SVG
 
 **IconShop: Text-Based Vector Icon Synthesis with Autoregressive
 Transformers**
