@@ -25,6 +25,16 @@ via Signed Distance Functions**
 [[code]](https://github.com/xiazeqing/xiazeqing.github.io/tree/master/VecFontSDF)
 **CVPR2023**
 
+**DeepVecFont: Synthesizing High-quality Vector Fonts via
+Dual-modality Learning**
+[[paper]](https://arxiv.org/pdf/2110.06688.pdf)
+
+**DeepVecFont-v2:
+Exploiting Transformers to Synthesize Vector Fonts with Higher Quality**
+[[paper]](https://arxiv.org/pdf/2303.14585.pdf)
+
+
+
 **CLIPDraw: Exploring Text-to-Drawing Synthesis
 through Language-Image Encoders**
 [[paper]](https://arxiv.org/pdf/2106.14843.pdf)
