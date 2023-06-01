@@ -21,6 +21,8 @@ through Language-Image Encoders**
 **arxiv 2021**
 
 **Synthetic text or numbers**
+
+
 **SVG VECTOR FONT GENERATION FOR CHINESE CHARACTERS WITH TRANSFORMER**
 [[paper]](https://arxiv.org/pdf/2206.10329.pdf)
 **ICIP 2022**
