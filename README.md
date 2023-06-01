@@ -24,3 +24,9 @@ via Signed Distance Functions**
 [[paper]](https://arxiv.org/pdf/2303.12675.pdf)
 [[code]](https://github.com/xiazeqing/xiazeqing.github.io/tree/master/VecFontSDF)
 **CVPR2023**
+
+**CLIPDraw: Exploring Text-to-Drawing Synthesis
+through Language-Image Encoders**
+[[paper]](https://arxiv.org/pdf/2106.14843.pdf)
+[[code]](https://colab.research.google.com/github/kvfrans/clipdraw/blob/main/clipdraw.ipynb)
+
