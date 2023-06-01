@@ -9,16 +9,21 @@ Transformers**
 **VectorFusion: Text-to-SVG by Abstracting Pixel-Based Diffusion Models**
 [[paper]](https://arxiv.org/pdf/2211.11319.pdf)
 
-
-**SVG VECTOR FONT GENERATION FOR CHINESE CHARACTERS WITH TRANSFORMER**
-[[paper]](https://arxiv.org/pdf/2206.10329.pdf)
-**ICIP 2022**
-
 **Towards Layer-wise Image Vectorization**
 [[paper]](https://arxiv.org/pdf/2206.04655.pdf)
 [[code]](https://github.com/Picsart-AI-Research/LIVE-Layerwise-Image-Vectorization)
 **CVPR 2022 Oral**
 
+**CLIPDraw: Exploring Text-to-Drawing Synthesis
+through Language-Image Encoders**
+[[paper]](https://arxiv.org/pdf/2106.14843.pdf)
+[[code]](https://colab.research.google.com/github/kvfrans/clipdraw/blob/main/clipdraw.ipynb)
+**arxiv 2021**
+
+**Synthetic text or numbers**
+**SVG VECTOR FONT GENERATION FOR CHINESE CHARACTERS WITH TRANSFORMER**
+[[paper]](https://arxiv.org/pdf/2206.10329.pdf)
+**ICIP 2022**
 **VecFontSDF: Learning to Reconstruct and Synthesize High-quality Vector Fonts
 via Signed Distance Functions**
 [[paper]](https://arxiv.org/pdf/2303.12675.pdf)
@@ -35,9 +40,4 @@ Exploiting Transformers to Synthesize Vector Fonts with Higher Quality**
 **CVPR2023**
 
 
-**CLIPDraw: Exploring Text-to-Drawing Synthesis
-through Language-Image Encoders**
-[[paper]](https://arxiv.org/pdf/2106.14843.pdf)
-[[code]](https://colab.research.google.com/github/kvfrans/clipdraw/blob/main/clipdraw.ipynb)
-**arxiv 2021**
 
