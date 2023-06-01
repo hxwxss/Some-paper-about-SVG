@@ -20,7 +20,7 @@ through Language-Image Encoders**
 [[code]](https://colab.research.google.com/github/kvfrans/clipdraw/blob/main/clipdraw.ipynb)
 **arxiv 2021**
 
-#Synthetic text or numbers
+# Synthetic text or numbers
 
 
 **SVG VECTOR FONT GENERATION FOR CHINESE CHARACTERS WITH TRANSFORMER**
