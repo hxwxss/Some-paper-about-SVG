@@ -17,7 +17,7 @@ Transformers**
 **Towards Layer-wise Image Vectorization**
 [[paper]](https://arxiv.org/pdf/2206.04655.pdf)
 [[code]](https://github.com/Picsart-AI-Research/LIVE-Layerwise-Image-Vectorization)
-
+**CVPR 2022 Oral**
 
 **VecFontSDF: Learning to Reconstruct and Synthesize High-quality Vector Fonts
 via Signed Distance Functions**
