@@ -39,4 +39,5 @@ Exploiting Transformers to Synthesize Vector Fonts with Higher Quality**
 through Language-Image Encoders**
 [[paper]](https://arxiv.org/pdf/2106.14843.pdf)
 [[code]](https://colab.research.google.com/github/kvfrans/clipdraw/blob/main/clipdraw.ipynb)
+**arxiv 2021**
 
