@@ -1,5 +1,6 @@
 # Text to SVG
 
+
 **IconShop: Text-Based Vector Icon Synthesis with Autoregressive
 Transformers**
 [[paper]](https://arxiv.org/pdf/2304.14400.pdf)
@@ -41,5 +42,9 @@ Exploiting Transformers to Synthesize Vector Fonts with Higher Quality**
 [[paper]](https://arxiv.org/pdf/2303.14585.pdf)
 **CVPR2023**
 
-
-
+#LLM in SVG
+**Leveraging Large Language Models for Scalable
+Vector Graphics-Driven Image Understanding
+**
+[[paper]](https://arxiv.org/pdf/2306.06094.pdf)
+**arxiv 2023**
